@@ -1,4 +1,19 @@
 # Implemented Features
+
+## T-03 : User language selection
+This feature allows users to switch between English and Bengali.
+**Status: Implemented**
+=======
+## T-01: Add login system
+This feature adds login functionality.
+** Status: Implemented**
+
+
+## T-08 : Doctor Availability (Free Slots)
+This ask involves displaying available time slots for doctors so users can view and select free appointment
+Status Implemented**
+
+=======
 ## T-02-Rural-user-registration
 This task involves creating a login form component with email and passw ord fields, including validation and error handling.
 **Registration complete**
