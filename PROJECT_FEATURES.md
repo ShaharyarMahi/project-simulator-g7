@@ -9,9 +9,6 @@ This feature adds login functionality.
 ** Status: Implemented**
 
 
-## T-08 : Doctor Availability (Free Slots)
-This ask involves displaying available time slots for doctors so users can view and select free appointment
-Status Implemented**
 
 =======
 ## T-02-Rural-user-registration
@@ -23,3 +20,4 @@ This feature allows users to upload medical images (JPEG/PNG) for analysis.
 The system validates file format and size (≤5MB) and stores the image for further processing.
 
 **Status: Implemented**
+
