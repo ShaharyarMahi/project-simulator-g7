@@ -1,5 +1,5 @@
 # Implemented Features
-D
+
 ## T-03 : User language selection
 This feature allows users to switch between English and Bengali.
 **Status: Implemented**
@@ -9,15 +9,6 @@ This feature adds login functionality.
 ** Status: Implemented**
 
 
-##T-10 : Start Consultation (Chat/Voice/Video)
-this task involves implementing real time consultation features including chat, voice and video commuication between users and doctors.
-**Status: Implemented**
-
-=======
-
-## T-09: Book Appointment Feature
-This task involves allowing users to book appointment by selecting doctor, choosing an available date and time slot, and confirming the booking. It includes validation and slot availability and confirmation handling.
-**Status: Implemented**
 
 =======
 ## T-02-Rural-user-registration
